@@ -1,0 +1,2 @@
+# melinfinall
+bağımlılık 
